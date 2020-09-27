@@ -1,6 +1,6 @@
 # writerscreed
 
-Dream Project
+
 
 ## Getting Started
 
